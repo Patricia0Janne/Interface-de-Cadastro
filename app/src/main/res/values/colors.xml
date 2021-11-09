@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="TextBody">#ff000000</color>
+    <color name="primaria">#FF0277bd</color>
+    <color name="primariaDark">#FF005cb2</color>
+    <color name="textPrimaria">#FFfafafa</color>
+    <color name="secundaria">#FF004c8c</color>
+    <color name="secundariaDark">#FF000000</color>
+    <color name="textSecundaria">#FFFFFFFF</color>
+    <color name="buttoncolor">#FF018786</color>
+    <color name="corBG">#FFFFFFFF</color>
+</resources>

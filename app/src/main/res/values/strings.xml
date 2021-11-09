@@ -1,0 +1,13 @@
+<resources>
+    <string name="nome">nome</string>
+    <string name="prosseguir">Finalizar cadastro e prosseguir</string>
+    <string name="telefone">Telefone</string>
+    <string name="cpf">CPF</string>
+    <string name="senha">Senha</string>
+    <string name="email">E-mail</string>
+    <string name="convenio">Convênio</string>
+    <string name="textinho">Preencher os campos a baixo para o cadastro como paciente.</string>
+    <string name="cadastro">Cadastro</string>
+
+
+</resources>
